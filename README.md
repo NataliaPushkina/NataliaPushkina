@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hellow World, I'm &Nopf;atalia 
-<img src="href="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif"" height="32"/></h1>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif"" height="32"></a></h1>
 <h3 align="center">Junior frontend developer</h3>
 
 <div align="center">
