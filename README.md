@@ -29,10 +29,10 @@ Here are some ideas to get you started:
   <img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/react.svg" alt="react" />
   <img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" alt="git" />
   <img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/figma.svg" alt="figma" />
-  
+  <!-- ДОБАВЛЮ, КОГДА ВЫУЧУ
   <img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/vuedotjs.svg" alt="vue.js" />
   <img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/typescript.svg" alt="typescript" />
-
+  -->
 </div>
 
 🌱 I’m currently learning web. <br>
