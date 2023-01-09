@@ -1,6 +1,7 @@
 <!--
 ### Hi there, I'm Natalia 👋
-<a href="#" target="_blank">Natalia</a> 
+<a href="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif" target="_blank">Natalia</a> 
+(https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif)
 
 
 <!--
