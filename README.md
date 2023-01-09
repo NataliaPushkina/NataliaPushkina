@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 <h3 align="center">Junior frontend developer</h3>
 
 <img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg">
+<img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg">
+<img height="32" width="32" src="https://simpleicons.org/#F7DF1E">
 
 🌱 I’m currently learning web. <br>
 📫 How to reach me: pshknnt@yandex.ru
