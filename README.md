@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 <h3 align="center">Junior frontend developer</h3>
 
 <div align="center">
-<img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg" />
-<img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" />
-<img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" />
-<img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/react.svg" />
-<img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" />
-  <img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/figma.svg" />
+<img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html.svg" alt="html"/>
+<img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg" alt="css" />
+<img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" alt="javascript" />
+<img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/react.svg" alt="react" />
+<img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" alt="git" />
+  <img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/figma.svg" alt="figma" />
 </div>
 
 🌱 I’m currently learning web. <br>
