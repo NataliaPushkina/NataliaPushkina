@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hellow World, I'm &Nopf;atalia 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif" height="32"></a></h1>
+<h1 align="center">Hellow World, I'm &Nopf;atalia </h1>
+<img src="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif" width="40" height="40" />
 <h3 align="center">Junior frontend developer</h3>
 
 <div align="center">
