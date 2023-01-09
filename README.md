@@ -24,5 +24,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior frontend developer</h3>
 
+<img src="#E34F26" height="32">
+
 🌱 I’m currently learning web. <br>
 📫 How to reach me: pshknnt@yandex.ru
