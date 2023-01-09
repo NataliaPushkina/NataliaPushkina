@@ -1,6 +1,7 @@
+<!--
 ### Hi there, I'm Natalia 👋
 
-<!--<h1 align="center">Hi there, I'm <a href="#" target="_blank">Natalia</a> 
+<h1 align="center">Hi there, I'm <a href="#" target="_blank">Natalia</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior frontend developer</h3>
 
@@ -23,5 +24,5 @@ Here are some ideas to get you started:
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior frontend developer</h3>
 
-🌱 I’m currently learning web.
+🌱 I’m currently learning web. <br>
 📫 How to reach me: pshknnt@yandex.ru
