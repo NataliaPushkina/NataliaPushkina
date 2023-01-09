@@ -1,9 +1,7 @@
 <!--
 ### Hi there, I'm Natalia 👋
+<a href="#" target="_blank">Natalia</a> 
 
-<h1 align="center">Hi there, I'm <a href="#" target="_blank">Natalia</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior frontend developer</h3>
 
 <!--
 **NataliaPushkina/NataliaPushkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,4 +34,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NataliaPushkina)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaPushkina)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaPushkina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
