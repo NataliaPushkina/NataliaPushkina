@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning web. <br>
 📫 How to reach me: pshknnt@yandex.ru
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=NataliaPushkina)](https://github.com/ryo-ma/github-profile-trophy)
