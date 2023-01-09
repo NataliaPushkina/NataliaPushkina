@@ -4,7 +4,7 @@
 (https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif)
 
 
-<!--
+<!--👋
 **NataliaPushkina/NataliaPushkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hellow World, I'm &Nopf;atalia 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="href="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif"" height="32"/></h1>
 <h3 align="center">Junior frontend developer</h3>
 
 <div align="center">
