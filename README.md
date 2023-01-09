@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 <img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" />
 <img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg" />
 <img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/react.svg" />
+<img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" />
+  <img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/figma.svg" />
 </div>
 
 🌱 I’m currently learning web. <br>
