@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/#1572B6">
 <img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg">
 <img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/#61DAFB">
-![REACT](https://github.com/simple-icons/simple-icons/blob/develop/icons/#61DAFB)
+[![REACT](https://github.com/simple-icons/simple-icons/blob/develop/icons/#61DAFB)]
 
 🌱 I’m currently learning web. <br>
 📫 How to reach me: pshknnt@yandex.ru
