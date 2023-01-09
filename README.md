@@ -1,14 +1,5 @@
 <!--
-### Hi there, I'm Natalia 👋
-<a href="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif" target="_blank">Natalia</a> 
-(https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif)
-
-
-<!--👋
-**NataliaPushkina/NataliaPushkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning web.
 - 👯 I’m looking to collaborate on ...
@@ -39,10 +30,8 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning web. <br>
 📫 How to reach me: pshknnt@yandex.ru
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=NataliaPushkina)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=NataliaPushkina)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaPushkina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NataliaPushkina&theme=solarized_dark)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
