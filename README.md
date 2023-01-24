@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hellow World, I'm &Nopf;atalia
+<h1 align="center">Hello World, I'm &Nopf;atalia
   <img src="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif" width="40" height="40" />
 </h1>
 <h3 align="center">Junior frontend developer</h3>
