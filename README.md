@@ -36,3 +36,5 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NataliaPushkina&theme=solarized_dark)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 -->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NataliaPushkina&theme=dark&background=000000)](https://git.io/streak-stats)
